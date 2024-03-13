@@ -20,3 +20,8 @@
 - ### Desarrollo de Aplicaciones Interactivas
   - Nombre del profesor: Sebastian Mejia
   - Descripción: Aprender sobre el desarrollo de aplicaciones mediante el uso de diversas herramientas así como su base de datos
+
+
+### **Creando la versión 1.0.0 de este repositorio**
+
+### **Creando la versión 1.1.0 de este repositorio**
