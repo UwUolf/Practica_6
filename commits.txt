@@ -1,0 +1,69 @@
+commit 66304793476089862e743f2f792420faecafb093
+Merge: 660cf5e 0244e0c
+Author: Wolf <wolfcruz143@gmail.com>
+Date:   Tue Mar 12 11:24:31 2024 -0600
+
+    Fusión 4
+
+commit 660cf5e00528e8bd6eb593e442e9cc349c6cca3f
+Author: Wolf <wolfcruz143@gmail.com>
+Date:   Tue Mar 12 11:23:53 2024 -0600
+
+    Corrección
+
+commit d466e07515debae516ab3baf426acf6064bf6a17
+Merge: 2c9d534 d0bf27f
+Author: Wolf <wolfcruz143@gmail.com>
+Date:   Tue Mar 12 11:22:16 2024 -0600
+
+    Fusión 3
+
+commit 2c9d534ce7dbeefd386d0cd69b60f4c44ce8333c
+Merge: 52f27dd 9325b2d
+Author: Wolf <wolfcruz143@gmail.com>
+Date:   Tue Mar 12 11:21:37 2024 -0600
+
+    Fusión 2
+
+commit 52f27ddc09bc20ff0d7dd1f2378d624651df4212
+Merge: 28b290a 1d63b1d
+Author: Wolf <wolfcruz143@gmail.com>
+Date:   Tue Mar 12 11:20:47 2024 -0600
+
+    Fusión 1
+
+commit 0244e0c8027f6de33206cecae77b104cb64defd0
+Author: Wolf <wolfcruz143@gmail.com>
+Date:   Tue Mar 12 11:14:28 2024 -0600
+
+    Agregando Rama de Desarrollo de Aplicaciones Interactivas
+
+commit d0bf27f4538dd03af9d148463e5417539cdc5c1c
+Author: Wolf <wolfcruz143@gmail.com>
+Date:   Tue Mar 12 11:08:53 2024 -0600
+
+    Agregando Rama de Diseño de Videojuegos
+
+commit 9325b2d125c02cc6f8b3d4846a19e8f0ffc882fc
+Author: Wolf <wolfcruz143@gmail.com>
+Date:   Tue Mar 12 11:05:17 2024 -0600
+
+    Agregando Rama de Principios de Composición y Diseño
+
+commit 1d63b1d6a76e8dc11b3995ab474c6511c67d4e1d
+Author: Wolf <wolfcruz143@gmail.com>
+Date:   Tue Mar 12 11:00:32 2024 -0600
+
+    Agregando Rama de Sistemas Operativos
+
+commit 28b290a4629ae15ca8f92ac61a55dd2db5797314
+Author: Wolf <wolfcruz143@gmail.com>
+Date:   Tue Mar 12 10:54:25 2024 -0600
+
+    Agregando Rama de Programación En Lenguajes Interpretados
+
+commit 1233f1b0f083a21517882ac9688af79bc184ddb9
+Author: Wolf <wolfcruz143@gmail.com>
+Date:   Tue Mar 12 10:45:13 2024 -0600
+
+    Primer commit
